@@ -3,4 +3,4 @@ Analog to Digital Converter created using three separate designs of operational 
 
 
 ![alt text](https://github.com/ssantars/Analog-Input-Scaler/blob/master/Presentation_Schematic_Layout.jpg)
-![alt text](https://github.com/ssantars/Analog-Input-Scaler/blob/master/Simulation.png)
+
